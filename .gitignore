@@ -1,0 +1,8 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*play.jl
+assets/uikit-icons.min.js
+assets/uikit.min.css
+assets/uikit.min.js
+assets/toggle-switch.css
